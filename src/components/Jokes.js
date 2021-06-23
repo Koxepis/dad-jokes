@@ -3,8 +3,7 @@ import React from 'react';
 function Jokes({ joke }) {
 	return (
 		<div className="joke">
-			{/* Anime */}
-			<div className="title">icanhazdadjoke's API</div>
+			<div className="title">A Dad Throws A Joke. He said:</div>
 			<blockquote>{joke}</blockquote>
 		</div>
 	);
