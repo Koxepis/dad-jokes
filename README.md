@@ -1,3 +1,6 @@
+![alt text](https://i.postimg.cc/yxRmtRZP/Screenshot-from-2021-06-25-21-06-46.png) 
+
+
 # How you can start this?
 Like run this code first
 ### `yarn start`
