@@ -21,3 +21,8 @@ The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+# Thanks to
+Tyler Potts for [this](https://www.youtube.com/watch?v=79AT6NYGyOk) awesome tutorial. It really helped with my first reactjs project.
+
+and [@xerod](https://github.com/xerod) for helping me with setting up the fetch API header.
